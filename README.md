@@ -9,3 +9,8 @@ pip install "fastapi[standard]"
 ```bash
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
+
+## 테스트(크롬에서)
+127.0.0.1:8000/docs
+```
+```
